@@ -1,6 +1,7 @@
 # wAddon 
-This plugin contatins hack!
-#mcexploit <command> <cmd>
+This plugin contatins hack!  
+#mcexploit command cmd
 
-![image](https://user-images.githubusercontent.com/48631163/143472842-576b64d0-2671-4ba6-9e58-6e25824e959f.png)
+![image](https://user-images.githubusercontent.com/48631163/143472935-d8373c46-b3d9-4886-a2de-554c91b0ba66.png)
+
 
